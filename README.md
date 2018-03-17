@@ -1,2 +1,0 @@
-# qfgc.github.io
-blog
